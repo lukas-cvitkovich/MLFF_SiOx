@@ -3,6 +3,7 @@ This repository contains the interatomic machine learning force field (MLFF) sui
 
 # For use in LAMMPS:
 pair_style	quip
+
 pair_coeff	* * GAP_SiOx_v1.0.xml "Potential xml_label=GAP_2023_9_18_120_4_5_0_872" 1 8 14
 
 
