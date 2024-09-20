@@ -6,7 +6,7 @@ Download both zip files. They are only separated to stay within the file size li
 Then uncompress them and put the resulting .xml files in the same folder (typically the folder where you run your simulation)
 
 ### For use in LAMMPS:
-First, make sure to install QUIP and link it to LAMMPS.
+Please make sure to install QUIP and link it to LAMMPS.
 
 
 pair_style	quip <br>
