@@ -6,6 +6,9 @@ Download both zip files. They are only separated to stay within the file size li
 Then uncompress them and put the resulting .xml files in the same folder (typically the folder where you run your simulation)
 
 ### For use in LAMMPS:
+First, make sure to install QUIP and link it to LAMMPS.
+
+
 pair_style	quip <br>
 pair_coeff	* * GAP_SiOx_v1.0.xml "Potential xml_label=GAP_2023_9_18_120_4_5_0_872" 1 8 14
 
