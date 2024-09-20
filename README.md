@@ -7,4 +7,4 @@ pair_coeff	* * GAP_SiOx_v1.0.xml "Potential xml_label=GAP_2023_9_18_120_4_5_0_87
 
 
 # Reference:
-[1]: https://arxiv.org/abs/2405.13635
+\[1\]: https://arxiv.org/abs/2405.13635
